@@ -110,9 +110,10 @@ Use `#pragma mark -` to categorize methods in functional groupings and protocol/
 
 **Preferred:**
 ```objc
+//case comment
 if (user.isHappy) {
   //Do something
-} 
+}//else case comment 
 else {
   //Do something else
 }
